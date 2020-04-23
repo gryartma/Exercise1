@@ -1,0 +1,6 @@
+c:\users\naruto\documents\visual studio 2015\Projects\LuasLingkaran\LuasLingkaran\bin\Debug\LuasLingkaran.exe.config
+c:\users\naruto\documents\visual studio 2015\Projects\LuasLingkaran\LuasLingkaran\bin\Debug\LuasLingkaran.exe
+c:\users\naruto\documents\visual studio 2015\Projects\LuasLingkaran\LuasLingkaran\bin\Debug\LuasLingkaran.pdb
+c:\users\naruto\documents\visual studio 2015\Projects\LuasLingkaran\LuasLingkaran\obj\Debug\LuasLingkaran.csprojResolveAssemblyReference.cache
+c:\users\naruto\documents\visual studio 2015\Projects\LuasLingkaran\LuasLingkaran\obj\Debug\LuasLingkaran.exe
+c:\users\naruto\documents\visual studio 2015\Projects\LuasLingkaran\LuasLingkaran\obj\Debug\LuasLingkaran.pdb
